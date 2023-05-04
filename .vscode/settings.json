@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.autoComplete.extraPaths": [
+        "D:/xuexi/anaconda/envs/py395/python.exe"
+    ]
+}
